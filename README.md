@@ -1,3 +1,5 @@
+![NPM](https://img.shields.io/npm/l/inquirer)
+
 **Note Taker**
 
   ## **Description**
